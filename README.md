@@ -1,6 +1,6 @@
 # CourseRegistrationSystem
 
-This is a python project named Course Registration System and I have used Django Framework, Bootstrap, HTML to build this project
+This is a Python project named Course Registration System and I have used Django Framework, Python, Bootstrap, HTML to build this project
 * The /course/add page is used to add a course by Student.
 * The /course/list page shows the course list and details added by Student to the admin/faculty.
 * Now we have additional options in the course list page as Add, Drop, Delete.
